@@ -1,0 +1,69 @@
+div#banner {
+	display: block;
+	background-color: #FF4848;
+	clear: left;
+}
+#Logo {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+}
+#title	{
+	color: rgb(214,186,45);
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 75px;
+}
+body	{
+	background-color: #99C7FF;
+}
+img	{
+	margin-left: 600px;
+	margin-right: 600px;
+}
+#info	{
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: Helvetica, sans-serif;
+    font-size: 30px;
+}
+footer {
+    background-color: #FF4848;
+    text-align: center;
+    color: #99C7FF;
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background-color: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+.fa-google {
+  background-color: #dd4b39;
+  color: white;
+}
+.fa-youtube {
+  background-color: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background-color: #125688;
+  color: white;
+}
+}
